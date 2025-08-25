@@ -1,4 +1,6 @@
-<img width="1360" height="693" alt="image" src="https://github.com/user-attachments/assets/a70c7b91-fea9-4969-9876-4637ac0c75da" /># 🌐 Projeto Cafeteria
+<img width="1360" height="693" alt="image" src="https://github.com/user-attachments/assets/a70c7b91-fea9-4969-9876-4637ac0c75da" />
+
+# 🌐 Projeto Cafeteria
 
 Este repositório traz um projeto prático desenvolvido em **HTML e CSS**, inspirado no vídeo do canal *Dev Club | Programação*.
 
